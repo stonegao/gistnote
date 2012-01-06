@@ -2,7 +2,7 @@
 
 ## The Idea
 
-All data persistent using gists including category meta data and notes, no local storage required. 
+All data persistent using gists including category meta data and notes, no local storage required. (maybe we do need local storage like sqlite for search)
 
 ## What Gistnote will look like (just like Evernote) ? 
 
